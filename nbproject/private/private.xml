@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/RSP-HPomen/Documents/NetBeansProjects/LojaVirtual1/src/LojaVirtual/view/TelaInicial.java</file>
+            <file>file:/C:/Users/RSP-HPomen/Documents/NetBeansProjects/LojaVirtual1/src/LojaVirtual/model/Produto.java</file>
+            <file>file:/C:/Users/RSP-HPomen/Documents/NetBeansProjects/LojaVirtual1/src/LojaVirtual/model/ItemCarrinho.java</file>
+            <file>file:/C:/Users/RSP-HPomen/Documents/NetBeansProjects/LojaVirtual1/src/LojaVirtual/view/TelaCarrinho.java</file>
+            <file>file:/C:/Users/RSP-HPomen/Documents/NetBeansProjects/LojaVirtual1/src/LojaVirtual/jdbc/Conexao.java</file>
+            <file>file:/C:/Users/RSP-HPomen/Documents/NetBeansProjects/LojaVirtual1/src/LojaVirtual/dao/ProdutosDAO.java</file>
+            <file>file:/C:/Users/RSP-HPomen/Documents/NetBeansProjects/LojaVirtual1/src/LojaVirtual/model/Usuario.java</file>
+            <file>file:/C:/Users/RSP-HPomen/Documents/NetBeansProjects/LojaVirtual1/src/LojaVirtual/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/RSP-HPomen/Documents/NetBeansProjects/LojaVirtual1/src/LojaVirtual/view/TelaLogin.java</file>
+            <file>file:/C:/Users/RSP-HPomen/Documents/NetBeansProjects/LojaVirtual1/src/LojaVirtual/view/TelaCadastro.java</file>
+        </group>
+    </open-files>
+</project-private>
